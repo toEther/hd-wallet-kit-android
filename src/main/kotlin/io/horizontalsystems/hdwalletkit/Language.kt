@@ -1,4 +1,4 @@
-package io.definenulls.hdwalletkit
+package io.horizontalsystems.hdwalletkit
 
 enum class Language {
     English,

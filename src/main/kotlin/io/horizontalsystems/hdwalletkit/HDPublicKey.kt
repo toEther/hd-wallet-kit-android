@@ -1,4 +1,4 @@
-package io.definenulls.hdwalletkit
+package io.horizontalsystems.hdwalletkit
 
 class HDPublicKey() {
     var publicKey: ByteArray = byteArrayOf()

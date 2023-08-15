@@ -1,4 +1,4 @@
-package io.definenulls.hdwalletkit
+package io.horizontalsystems.hdwalletkit
 
 fun ByteArray.toHexString(): String {
     return this.joinToString(separator = "") {

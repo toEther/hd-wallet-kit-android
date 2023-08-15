@@ -1,4 +1,4 @@
-package io.definenulls.hdwalletkit
+package io.horizontalsystems.hdwalletkit
 
 import java.security.MessageDigest
 import java.security.NoSuchAlgorithmException

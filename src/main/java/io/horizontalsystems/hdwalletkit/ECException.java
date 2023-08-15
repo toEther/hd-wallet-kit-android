@@ -1,4 +1,4 @@
-package io.definenulls.hdwalletkit;
+package io.horizontalsystems.hdwalletkit;
 
 /**
  * Copyright 2013-2014 Ronald W Hoffman
@@ -17,7 +17,7 @@ package io.definenulls.hdwalletkit;
  */
 
 /**
- * An io.definenulls.hdwalletkit.ECException is thrown if an error occurs in an elliptic curve cryptographic
+ * An io.horizontalsystems.hdwalletkit.ECException is thrown if an error occurs in an elliptic curve cryptographic
  * function
  */
 public class ECException extends Exception {

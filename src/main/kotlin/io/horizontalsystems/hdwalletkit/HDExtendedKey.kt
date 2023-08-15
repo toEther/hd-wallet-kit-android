@@ -1,6 +1,6 @@
-package io.definenulls.hdwalletkit
+package io.horizontalsystems.hdwalletkit
 
-import io.definenulls.hdwalletkit.HDWallet.Purpose
+import io.horizontalsystems.hdwalletkit.HDWallet.Purpose
 import java.math.BigInteger
 import kotlin.experimental.and
 

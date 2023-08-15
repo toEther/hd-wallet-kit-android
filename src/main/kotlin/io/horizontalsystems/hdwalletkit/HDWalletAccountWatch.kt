@@ -1,6 +1,6 @@
-package io.definenulls.hdwalletkit
+package io.horizontalsystems.hdwalletkit
 
-import io.definenulls.hdwalletkit.HDWallet.Chain
+import io.horizontalsystems.hdwalletkit.HDWallet.Chain
 
 class HDWalletAccountWatch(
     accountPublicKey: HDKey

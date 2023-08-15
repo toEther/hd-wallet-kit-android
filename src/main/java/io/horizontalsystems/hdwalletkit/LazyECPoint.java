@@ -1,4 +1,4 @@
-package io.definenulls.hdwalletkit;
+package io.horizontalsystems.hdwalletkit;
 
 import org.bouncycastle.math.ec.ECCurve;
 import org.bouncycastle.math.ec.ECPoint;
