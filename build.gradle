@@ -9,7 +9,7 @@ buildscript {
     }
 }
 
-group 'com.github.toEther'
+group 'com.github.horizontalsystems'
 version '1.0.0'
 
 apply plugin: 'java-library'
